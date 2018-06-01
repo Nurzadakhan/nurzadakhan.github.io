@@ -101,6 +101,7 @@ body {
 	padding: 4px;
 	transition: .25s;
 	z-index: 15;
+	margin-left: -20px;
 }
 .toggle-button:hover {
 	cursor: pointer;
