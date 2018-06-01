@@ -35,7 +35,7 @@ body {
 	overflow: auto;
 	transition: .25s;
 	z-index: 10;
-}
+} 
 .menu-show {
 	margin-left: 0;
 	box-shadow: 4px 2px 15px 1px #B9ADAD;
